@@ -1,0 +1,102 @@
+{
+  "status": 200,
+  "message": "success",
+  "result": {
+    "pageSize": 10,
+    "pageIndex": 1,
+    "list": [
+      {
+        "title": "拍机堂一件起批",
+        "logo": "https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f528.png",
+        "time": "2026-10-23 09:15:00",
+        "number": "PJ202610230017",
+        "status": "未付款",
+        "tag": { "text": "一件起批" },
+        "buttonConfigList": [
+          { "text": "发送订单", "type": "sendCard", "style": {} }
+        ],
+        "extraInfoArr": [
+          { "name": "金额", "value": "￥9880.00" },
+          { "name": "场次", "value": "一件起批" }
+        ],
+        "extraData": [
+          { "name": "orderNo", "value": "PJ202610230017" },
+          { "name": "status", "value": "未付款" }
+        ],
+        "productList": [
+          {
+            "title": "华为 Mate 50 Pro 256G 曜金黑",
+            "subtitle": "9成新 · 已通过官方质检",
+            "remark": "激活无锁",
+            "amount": "x2",
+            "price": "￥3150.00",
+            "img": "https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f4f1.png"
+          },
+          {
+            "title": "小米 13 Ultra 512G 橄榄绿",
+            "subtitle": "99新 · 已通过官方质检",
+            "remark": "顺丰包邮",
+            "amount": "x1",
+            "price": "￥3580.00",
+            "img": "https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f4f1.png"
+          }
+        ]
+      },
+      {
+        "title": "拍机堂严选",
+        "logo": "https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f528.png",
+        "time": "2026-10-22 14:30:00",
+        "number": "PJ202610220001",
+        "status": "已付款未发货",
+        "buttonConfigList": [
+          { "text": "发送订单", "type": "sendCard", "style": {} }
+        ],
+        "extraInfoArr": [
+          { "name": "金额", "value": "￥2799.00" }
+        ],
+        "extraData": [
+          { "name": "orderNo", "value": "PJ202610220001" },
+          { "name": "status", "value": "已付款未发货" }
+        ],
+        "productList": [
+          {
+            "title": "iPhone 13 128G 国行 全网通",
+            "subtitle": "95新 · 已通过官方质检",
+            "remark": "顺丰包邮",
+            "amount": "x1",
+            "price": "￥2799.00",
+            "img": "https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f4f1.png"
+          }
+        ]
+      },
+      {
+        "title": "拍机堂严选",
+        "logo": "https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f528.png",
+        "time": "2026-10-19 16:02:00",
+        "number": "PJ202610190045",
+        "status": "已发货",
+        "buttonConfigList": [
+          { "text": "发送订单", "type": "sendCard", "style": {} }
+        ],
+        "extraInfoArr": [
+          { "name": "金额", "value": "￥2350.00" },
+          { "name": "物流", "value": "顺丰 SF1234567890（运输中）" }
+        ],
+        "extraData": [
+          { "name": "orderNo", "value": "PJ202610190045" },
+          { "name": "status", "value": "已发货" }
+        ],
+        "productList": [
+          {
+            "title": "vivo X90 12+256G 至黑",
+            "subtitle": "95新 · 已通过官方质检",
+            "remark": "已出库",
+            "amount": "x1",
+            "price": "￥2350.00",
+            "img": "https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f4f1.png"
+          }
+        ]
+      }
+    ]
+  }
+}
